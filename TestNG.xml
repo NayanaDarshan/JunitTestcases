@@ -1,0 +1,15 @@
+<Suite name = "TestNG Test programs">
+<test name="TestNG Suite">
+
+<Classes>
+
+<Class name ="com.test.TestMethod1"</Class>
+<Class name ="com.test.TestMethod1"</Class>
+<Class name ="com.test.TestMethod1"</Class>
+<Class name ="com.test.TestMethod2"</Class>
+<Class name ="com.test.TestMethod3"</Class>
+
+</Classes>
+
+</test>
+</SuiteName>
